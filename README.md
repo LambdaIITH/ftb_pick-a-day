@@ -13,6 +13,8 @@ Can you help him fix the bug?
 How about we conduct Fix The Bug on Tuesday?
 ```
 
+`Tuesday` is just an example, the output would be any random day of the week.
+
 ### Current Output
 
 No output, compiler error :(
